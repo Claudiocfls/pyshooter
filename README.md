@@ -44,6 +44,6 @@ Primordially is win points by killing Zombies and others players. But that is no
 
 ### Blog posts
 
-* .[Álgebra Linear + Programação = Top Down Shooter](https://medium.com/@claudiocfls/%C3%A1lgebra-linear-programa%C3%A7%C3%A3o-top-down-shooter-4a5470cdba40)
+* [Álgebra Linear + Programação = Top Down Shooter](https://medium.com/@claudiocfls/%C3%A1lgebra-linear-programa%C3%A7%C3%A3o-top-down-shooter-4a5470cdba40)
 
 
